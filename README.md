@@ -1,5 +1,6 @@
-# Connect 4 Python Project
-Last updated: 16.02.2023
+# Connect 4 Software agent
+
+This repository contains the implementation of a software agent designed to play the game Connect 4. It was developed as a task for the "Programming Project in Python" course at TU Berlin. The primary objective was to implement and design an intelligent agent capable of playing Connect 4 using the reinforcement learning.
 
 ## System Requirements
 
@@ -21,7 +22,7 @@ For all the following libraries the newest version was installed.
 ## Usage
 
 ### Already trained data
-As we (finally) managed to share the training data from other computers, out trained neural network can already be 
+As we (finally) managed to share the training data from other computers, our trained neural network can already be 
 used. In order to do so the instructions from "Evaluation" can be applied straight away.
 
 ### Training
